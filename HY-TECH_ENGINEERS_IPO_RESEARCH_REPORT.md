@@ -693,6 +693,69 @@ Two observations:
 
 ---
 
+## 12A. Client-requested five-year track record
+
+### Scope and disclosure warning
+
+The five most recently completed fiscal years are **FY22–FY26**. The requested five-year grid cannot be populated in full from the materials reviewed: the DRHP expressly contains restated consolidated financial statements only for **FY23, FY24 and FY25**, while the FY26 figures available to this report are selected RHP figures reported publicly rather than an RHP financial statement read directly. **FY22 revenue, PAT, EPS, ROE and ROCE are therefore marked “N/D” (not disclosed), not estimated.** This is a source limitation, not a zero value.
+
+The promoter series is more complete because the DRHP's capital history records the underlying allotments, transfers, split and bonus. Share counts before and after February 2025 are not directly comparable: each old ₹10 share became two ₹5 shares and the subsequent bonus increased each post-split shareholding 112-fold. Percentages are the comparable measure.
+
+### 12A.1 Promoter holding — five-year reconstruction
+
+| Fiscal endpoint | Promoter shares | Total shares | Promoter holding | Source status |
+|---|---:|---:|---:|---|
+| **FY22** | 368,410 (FV ₹10) | 372,910 | **98.79%** | Reconstructed from DRHP capital history |
+| **FY23** | 368,410 (FV ₹10) | 372,910 | **98.79%** | DRHP two-years-prior table / no intervening change |
+| **FY24** | 368,910 (FV ₹10) | 372,910 | **98.93%** | Reconstructed from March 2024 transfers |
+| **FY25** | 81,851,840 (FV ₹5) | 83,531,840 | **97.99%** | DRHP current holding after split and bonus |
+| **FY26 / latest pre-offer** | 81,851,840 (FV ₹5) | 83,531,840 | **97.99%** | Public RHP-reported pre-offer basis; no disclosed net change |
+
+**What changed:** the December 2021 preferential allotment introduced 450 non-promoter old shares and diluted promoter ownership to 98.79%. Net March 2024 transfers added 500 old shares to promoter ownership, lifting FY24 to 98.93%. Net promoter-to-public transfers of 3,500 old shares between July and December 2024 reduced it to 97.99%. The February 2025 split and bonus changed the share count but not the percentage; Hemant Mondkar's July 2025 transfer of 2.85 million current shares to Ashwin Mondkar was **within the promoter group** and also did not alter aggregate promoter ownership.
+
+**Post-offer dilution:** based on the publicly reported RHP structure at ₹53 — approximately 11.32 million fresh shares and 14.29 million OFS shares — aggregate promoter ownership falls to approximately **71.23%**. This is an analyst-derived post-offer figure; the exact allotment-stage shareholding should be checked against the final Prospectus/exchange filing.
+
+### 12A.2 Topline and bottom line
+
+| | FY22 | FY23 | FY24 | FY25 | FY26* |
+|---|---:|---:|---:|---:|---:|
+| **Revenue from operations (₹mn)** | **N/D** | 1,333.36 | 1,377.08 | 1,613.82 | **1,894.00** |
+| Revenue growth | N/D | N/D | **3.28%** | **17.19%** | **17.36%** |
+| **PAT / bottom line (₹mn)** | **N/D** | 180.02 | 115.96 | 196.19 | **225.90** |
+| PAT growth | N/D | N/D | **−35.58%** | **69.19%** | **15.14%** |
+| PAT margin on revenue | N/D | 13.50% | 8.42% | 12.16% | **11.93%** |
+| Source status | Not in DRHP/RHP extracts reviewed | Audited restated | Audited restated | Audited restated | Public RHP reporting* |
+
+\*FY26 revenue and PAT are selected public RHP-reported figures, not figures read by me from the audited RHP statement. **On the available FY23–FY26 period, revenue CAGR is 12.41%, but PAT CAGR is only 7.86%.** The gap is the concise earnings-quality message: scale has compounded faster than the bottom line, because FY24's cost shock and FY26's slight PAT-margin compression offset FY25's recovery.
+
+### 12A.3 P/E — actual versus illustrative
+
+Hy-Tech was unlisted throughout FY22–FY26. Consequently, **actual traded historical P/E is not applicable for all five years**: there was no observable year-end market price. Calling ₹53 divided by old EPS an “actual five-year P/E history” would be analytically wrong. The only defensible comparison is an **illustrative IPO-cap-price-implied P/E**, holding the ₹53 price constant.
+
+| | FY22 | FY23 | FY24 | FY25 | FY26 |
+|---|---:|---:|---:|---:|---:|
+| Actual market P/E | N/A — unlisted | N/A — unlisted | N/A — unlisted | N/A — unlisted | N/A — unlisted |
+| Adjusted / pre-issue EPS (₹) | N/D | 2.16 | 1.39 | 2.35 | **2.70**† |
+| **Illustrative P/E at ₹53** | **N/D** | **24.54x** | **38.13x** | **22.55x** | **19.60x**† |
+
+†FY26 pre-issue EPS is analyst-derived as ₹225.90 million PAT ÷ 83.53184 million pre-issue shares. It answers, “What multiple would ₹53 represent on the same pre-issue capital base?” It is **not** the offer valuation. After the ₹600 million fresh issue, post-issue shares rise to approximately 94.85 million, FY26 diluted EPS falls to about **₹2.38**, and the correct IPO valuation becomes **22.25x**, matching Section 14.
+
+The unusually high **38.13x FY24 implied P/E** is not evidence that the offer was expensive in FY24; it is the mathematical consequence of depressed FY24 earnings. At the same ₹53 price, the multiple normalises to 22.55x in FY25 as margins recover.
+
+### 12A.4 ROE and ROCE
+
+| | FY22 | FY23 | FY24 | FY25 | FY26* |
+|---|---:|---:|---:|---:|---:|
+| **ROE — PAT ÷ average equity** | **N/D** | **28.80%** | **15.11%** | **21.39%** | **~20.07%e** |
+| **ROCE — Company KPI definition** | **N/D** | **31.68%** | **15.24%** | **20.46%** | **N/D** |
+| Source status | Not disclosed | Audited DRHP KPI | Audited DRHP KPI | Audited DRHP KPI | Analyst estimate / unavailable |
+
+\*FY26 estimated ROE assumes closing equity equals FY25 equity of ₹1,012.51 million plus FY26 PAT of ₹225.90 million, with no dividend or material OCI movement: ₹225.90 million ÷ average estimated equity of ₹1,125.46 million = **20.07%**. It is explicitly an estimate, not a reported KPI. A comparable FY26 ROCE cannot be safely calculated from the selected public figures because the full year-end asset, liability, cash/bank-balance and current-investment inputs — and directly disclosed EBIT excluding other income — have not been read. **No substitute EBIT/(equity + debt) ratio has been inserted because it would mix definitions.**
+
+**Five-year conclusion:** promoter control remained exceptionally high before the IPO, declining only from 98.79% to 97.99% on the available comparable endpoints; the OFS, not prior-year selling, creates the material step-down to ~71.23%. Operationally, FY25 repaired FY24's earnings damage, but FY26 revenue again grew faster than PAT. ROE and ROCE recovered from FY24 but did not regain FY23 peaks — the historical evidence still supports the report's central concern that incremental capital has not yet produced proportionate incremental operating profit.
+
+---
+
 ## 13. Disclosure quality — six specific findings
 
 The audited financials are clean, tie out, and carry no qualification. These findings concern **presentation**, and they matter because they all point the same direction — flattering.
