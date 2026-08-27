@@ -688,7 +688,7 @@ At 15.8% ROIC against a ~11% cost of debt and a mid-teens cost of equity, **the 
 Two observations:
 - **Cost of debt rose to 11.4% while the Company held ₹172 mn in 7.7% deposits.** As noted, that is ~₹6 mn a year of avoidable leakage, and it is a capital-allocation question, not an accounting one.
 - **Personal guarantees from Hemant and Surekha Mondkar secure ₹395.25 mn of the ₹435.25 mn** of borrowings, and covenants restrict capital-structure changes, promoter/KMP changes, and further borrowing without lender consent. Consents for the IPO have been obtained. Post-repayment this dependency shrinks but does not disappear.
-- As of 31 July 2026: fund-based outstanding ₹340.89 mn against ₹602.50 mn sanctioned; non-fund-based ₹82.22 mn (LC ₹81.39 mn) against ₹221.50 mn. **Ample undrawn headroom** — liquidity is not a concern.
+- As of **31 July 2025** (the DRHP's cut-off date): fund-based outstanding ₹340.89 mn against ₹602.50 mn sanctioned; non-fund-based ₹82.22 mn (LC ₹81.39 mn) against ₹221.50 mn. **Ample undrawn headroom** — liquidity is not a concern. *Note this is a 13-month-old snapshot; the RHP will carry an updated figure.*
 
 
 ---
