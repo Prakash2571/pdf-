@@ -3,7 +3,7 @@
 **Sector:** Industrials / Fluid Power Components (Hydraulic Fittings)
 **Document analysed:** Draft Red Herring Prospectus dated 4 September 2025 (430 pages), supplemented with RHP data now in the public domain
 **Report date:** 27 August 2026
-**Status:** ⚠️ **ISSUE CLOSES TODAY.** Book open 24–27 Aug 2026 · Price band ₹50–53 · Lot 283 shares (₹14,999) · Allotment 28 Aug · Listing 1 Sep 2026 (NSE + BSE)
+**Status:** **ISSUE CLOSES TODAY.** Book open 24–27 Aug 2026 · Price band ₹50–53 · Lot 283 shares (₹14,999) · Allotment 28 Aug · Listing 1 Sep 2026 (NSE + BSE)
 
 | | |
 |---|---|
@@ -364,7 +364,7 @@ So the honest reading is:
 
 **Assessment:** OEM qualification is a real asset (it is the moat against the unorganised 90%), but **OEM revenue concentration is a disclosure blank, and the "OEM supplier" framing is looser than the document proves.** Note also that distributor share is *rising* (9.9% → 11.4%), with domestic distributor revenue up 142% over two years — growth is tilting toward the *less* OEM-like, more price-exposed channel.
 
-### ⚠️ The Hy-Tech USA Inc. channel — the most important finding in this report
+### The Hy-Tech USA Inc. channel — the most important finding in this report
 
 **Hy-Tech USA Inc. is a Promoter Group entity** ("entities in which Key Managerial Personnel are able to exercise significant influence," Note 47.1). The Company has granted it an **exclusive distribution agreement** for all hydraulic fittings and related equipment for customers, including OEMs, in **North America, Canada and Brazil.**
 
@@ -529,12 +529,12 @@ This is the highest-risk item in the capex, for a specific reason: **the *Consen
 
 | Rank | Process step | Evidence | IPO addresses? | Residual risk |
 |---|---|---|---|---|
-| 1 | **CNC machining** | Job work 7.8% of revenue and rising; WIP building; ~65% of capex | ✅ Directly (~₹121 mn) | Commissioning + skilled-operator ramp |
-| 2 | **Plating** | Batch process before dispatch; new dedicated plant | ✅ New plant | 🔴 **Consent to Operate not yet applied for** |
-| 3 | Testing / validation | Test benches, impulse stand, metallurgy at all 3 units | ✅ | Low |
-| 4 | WIP staging / material handling | WIP 36.9% of inventory; vertical storage being bought | ✅ | Low |
-| 5 | Forging (Nashik) | 59.6% utilised — **not** a constraint | ➖ Not needed | None near-term |
-| 6 | Skilled machinists | 38% contract labour; 425 permanent | ❌ Not addressed | Moderate — attrition/training on new CNC |
+| 1 | **CNC machining** | Job work 7.8% of revenue and rising; WIP building; ~65% of capex | Yes — directly (~₹121 mn) | Commissioning + skilled-operator ramp |
+| 2 | **Plating** | Batch process before dispatch; new dedicated plant | Yes — new plant | **Risk: Consent to Operate not yet applied for** |
+| 3 | Testing / validation | Test benches, impulse stand, metallurgy at all 3 units | Yes | Low |
+| 4 | WIP staging / material handling | WIP 36.9% of inventory; vertical storage being bought | Yes | Low |
+| 5 | Forging (Nashik) | 59.6% utilised — **not** a constraint | Not needed | None near-term |
+| 6 | Skilled machinists | 38% contract labour; 425 permanent | No — not addressed | Moderate — attrition/training on new CNC |
 
 **Verdict: the diagnosis is right and the capex is aimed correctly.** The measurable success test is simple and public — **job-work charges should fall as a percentage of revenue from FY28.** If they do not, the debottlenecking failed. This is the single best KPI to track post-listing, and it is disclosed in the notes to accounts every year.
 
@@ -556,7 +556,7 @@ This is the highest-risk item in the capex, for a specific reason: **the *Consen
 | Fixed other expenses | 67.91 | |
 | D&A | 101.07 | |
 | **Total fixed / semi-fixed** | **399.34** | **24.7%** |
-| **EBIT (check: 656.13 − 399.34 = 256.79 vs reported 256.81)** ✅ | **256.81** | **15.9%** |
+| **EBIT (check: 656.13 − 399.34 = 256.79 vs reported 256.81)** | **256.81** | **15.9%** |
 
 **Contribution margin 40.7%. Operating break-even revenue ₹982 mn. Margin of safety 39.1%** — revenue can fall 39% before EBIT turns negative. That is a comfortable cushion for a cyclical business and is the strongest downside-protection fact in this report.
 
@@ -646,7 +646,7 @@ Ageing improved materially (64% of the book "not due"), while the ECL provision 
 
 **Three-year cumulative: CFO ₹667.06 mn, capex ₹575.92 mn, FCF ₹91.14 mn against PAT of ₹492.17 mn — a 3-year FCF/PAT conversion of just 18.5%.** Cumulative capex/D&A of 2.44x confirms this is a genuine growth-capex phase, not maintenance. But it means **the Company has generated very little distributable cash while reporting healthy profits**, and it is why an IPO is needed to fund the next expansion.
 
-**Cash capex reconciles** (a check worth doing): FY25 gross additions ₹199.68 mn less CWIP release ₹24.82 mn less reduction in capital advances ₹18.12 mn ≈ ₹156.74 mn versus ₹154.11 mn reported. ✅ *(Note the MD&A's ₹301.77 mn "capital expenditure (gross additions)" figure is inconsistent with its own table showing ₹197.73 mn — see Section 13.)*
+**Cash capex reconciles** (a check worth doing): FY25 gross additions ₹199.68 mn less CWIP release ₹24.82 mn less reduction in capital advances ₹18.12 mn ≈ ₹156.74 mn versus ₹154.11 mn reported. *(Note the MD&A's ₹301.77 mn "capital expenditure (gross additions)" figure is inconsistent with its own table showing ₹197.73 mn — see Section 13.)*
 
 **Financing:** cumulative three-year dividends of only ₹14.91 mn against ₹492 mn of PAT (~3% payout). FY25 declared nil (₹5.59 mn paid in FY25 was the FY24 final). **Assume no meaningful dividend.**
 
@@ -706,7 +706,7 @@ The audited financials are clean, tie out, and carry no qualification. These fin
 | Difference | 36.08 | 34.65 | 53.27 |
 | **Other income** | **36.08** | **34.65** | **53.25** |
 
-The difference equals other income **exactly, in all three years.** The Company's definition already deducts other income (PBT + finance + D&A − other income = 357.88 ✅). The CARE table deducts it a second time. Proof it is an error: **CARE's own EBIT line (₹256.79 mn) is consistent with the Company's EBITDA of ₹357.88 mn, not with CARE's ₹304.61 mn** (304.61 − 101.07 = 203.54 ≠ 256.79). So the same document reports EBITDA margins of both **22.18% and 18.88%** for FY25. Investors reading the industry section understate profitability by 330–460 bps.
+The difference equals other income **exactly, in all three years.** The Company's definition already deducts other income (PBT + finance + D&A − other income = 357.88). The CARE table deducts it a second time. Proof it is an error: **CARE's own EBIT line (₹256.79 mn) is consistent with the Company's EBITDA of ₹357.88 mn, not with CARE's ₹304.61 mn** (304.61 − 101.07 = 203.54 ≠ 256.79). So the same document reports EBITDA margins of both **22.18% and 18.88%** for FY25. Investors reading the industry section understate profitability by 330–460 bps.
 
 **② Top-5 customer concentration compared against a top-10 number.** Page 189 claims top-5 fell from 53.56% (FY23) to 26.00% (FY25). 53.56% is top-*ten*; actual FY23 top-5 = **39.58%**. Overstates the de-risking by ~2x.
 
@@ -736,8 +736,8 @@ Under SCRR Rule 19(2)(b), an issuer with post-issue capital below ₹1,600 cr mu
 |---|---|---|---|
 | 50 | 14,000,000 | 97,531,840 | 26.6% |
 | **58.66** | **11,933,120** | **95,465,014** | **25.00%** |
-| 70 | 10,000,000 | 93,531,840 | 23.4% ❌ |
-| 100 | 7,000,000 | 90,531,840 | 20.9% ❌ |
+| 70 | 10,000,000 | 93,531,840 | 23.4% — breach |
+| 100 | 7,000,000 | 90,531,840 | 20.9% — breach |
 
 **Above ₹58.66 the DRHP structure breached the 25% minimum public shareholding.** The RHP resolved it exactly as the arithmetic requires — **cutting the fresh issue to ₹600 mn and raising the OFS to ~14.29 mn shares**, landing the band at ₹50–53 for 27.0% public shareholding.
 
@@ -788,7 +788,7 @@ At ₹53, Hy-Tech's 22.3x FY26 P/E sits at a ~66% discount to the 65.83x "peer a
 | Overall subscription | ~55.7x–82.7x (intra-day, sources differ) |
 | **NII** | **~95x** |
 | **Retail** | **~70x** |
-| **QIB (ex-anchor)** | **~0.84x** ⚠️ |
+| **QIB (ex-anchor)** | **~0.84x** (weak) |
 | Anchor book | ₹40.72 cr — 76.83 lakh shares at ₹53 to 8 investors |
 | GMP | ₹44 → implied listing ~₹97 (~83%) |
 
@@ -827,7 +827,7 @@ At ₹53, Hy-Tech's 22.3x FY26 P/E sits at a ~66% discount to the 65.83x "peer a
 20. **Four of six plants in Maharashtra** (77.3% of revenue); domestic revenue 52.3% West-weighted.
 
 ### Mitigants worth weighing
-✅ Clean audit, no qualifications or frauds since incorporation · negligible contingent liabilities (₹nil disputed GST at FY25) · **best EBITDA margin and ROE in the disclosed peer set** · 95.2% repeat revenue, 128 repeat customers · genuine backward integration (forging → machining → plating) · IATF 16949 at three plants · **39% margin of safety to operating break-even** · net debt/EBITDA 0.72x falling to ~0.2x post-issue · supplier concentration cut (top-5 55.3% → 38.5%) · customer concentration cut (top-10 53.6% → 42.0%) · receivables ageing materially improved with conservative ECL · debottlenecking-led (not greenfield) capex at running, licensed units · **FY26 delivered +17.4% revenue, +15.1% PAT, ~70% utilisation and the first real export growth in four years.**
+Clean audit, no qualifications or frauds since incorporation · negligible contingent liabilities (₹nil disputed GST at FY25) · **best EBITDA margin and ROE in the disclosed peer set** · 95.2% repeat revenue, 128 repeat customers · genuine backward integration (forging → machining → plating) · IATF 16949 at three plants · **39% margin of safety to operating break-even** · net debt/EBITDA 0.72x falling to ~0.2x post-issue · supplier concentration cut (top-5 55.3% → 38.5%) · customer concentration cut (top-10 53.6% → 42.0%) · receivables ageing materially improved with conservative ECL · debottlenecking-led (not greenfield) capex at running, licensed units · **FY26 delivered +17.4% revenue, +15.1% PAT, ~70% utilisation and the first real export growth in four years.**
 
 ---
 
@@ -850,11 +850,11 @@ At ₹53, Hy-Tech's 22.3x FY26 P/E sits at a ~66% discount to the 65.83x "peer a
 
 | Decision | Call | Rationale |
 |---|---|---|
-| **Subscribe at ₹50–53** | ✅ **YES** | 22.3x FY26 / 12.2x EV/EBITDA for a 22%-EBITDA-margin, 21%-ROE, near-debt-free business is below the 60%-utilisation fair value of ₹71. The offer size — not a valuation judgement — set this price. Allotment odds ~1.4%. |
-| **Buy on listing at ~₹97** | ❌ **NO** | 38.5x FY26 / 20.9x EV/EBITDA exceeds my 75%-utilisation / 12x value of ₹89. A 3–5 year execution is fully pre-paid, against a QIB ex-anchor book of ~0.84x. |
-| **Accumulate below ₹70** | ✅ Selectively | 3-year fair value ₹75–85 at 65% utilisation and 12x. Size small; this is a cyclical micro-cap. |
-| **Hold if allotted** | ✅ Partially | Book at least half on listing above ₹85. Retain the balance only with the Section 1 monitorables tracking favourably. |
-| **Long-term core holding** | ⚠️ Not yet | Requires resolution of the Hy-Tech USA channel and two quarters of post-expansion utilisation evidence. |
+| **Subscribe at ₹50–53** | **YES** | 22.3x FY26 / 12.2x EV/EBITDA for a 22%-EBITDA-margin, 21%-ROE, near-debt-free business is below the 60%-utilisation fair value of ₹71. The offer size — not a valuation judgement — set this price. Allotment odds ~1.4%. |
+| **Buy on listing at ~₹97** | **NO** | 38.5x FY26 / 20.9x EV/EBITDA exceeds my 75%-utilisation / 12x value of ₹89. A 3–5 year execution is fully pre-paid, against a QIB ex-anchor book of ~0.84x. |
+| **Accumulate below ₹70** | **Selectively** | 3-year fair value ₹75–85 at 65% utilisation and 12x. Size small; this is a cyclical micro-cap. |
+| **Hold if allotted** | **Partially** | Book at least half on listing above ₹85. Retain the balance only with the Section 1 monitorables tracking favourably. |
+| **Long-term core holding** | **Not yet** | Requires resolution of the Hy-Tech USA channel and two quarters of post-expansion utilisation evidence. |
 
 **The one-sentence summary:** *A well-run, genuinely profitable, best-in-class-margin niche manufacturer is being offered at a price its own offer structure forced down — attractive at ₹53, fully valued by ₹85, and unattractive at the ₹97 the grey market is quoting, with a promoter-owned US channel worth ~23% of revenue and two years of flat EBIT on 50% more capital as the reasons to demand a discount rather than pay a premium.*
 
